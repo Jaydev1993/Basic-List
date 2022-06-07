@@ -1,5 +1,6 @@
 Assignment - 
 Get data from API and render a list and perform operations like search and sort. Conditionally show/hide or highlight few elements in the list according to conditions.
+Note: Use axios for API calls
 
 List of APIs -
 GET - https://reqres.in/api/users
